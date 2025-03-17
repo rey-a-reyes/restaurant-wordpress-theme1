@@ -13,6 +13,9 @@ A template made using wordpress and elementor and customize CSS.
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 * Wordpress
+* Plugins
+  * Elementor
+    
 
 ## Version History
 
