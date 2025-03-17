@@ -23,3 +23,4 @@ A template made using wordpress and elementor and customize CSS.
 
 Home Page: 
 ![home-page](https://github.com/user-attachments/assets/0fc96eee-1d4a-4c6c-aa5f-09d810c6dbd4)
+![home-page-ezgif com-optimize](https://github.com/user-attachments/assets/b69888fd-0a73-4d06-94e5-a9fca4895a24)
